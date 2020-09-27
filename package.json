@@ -16,8 +16,9 @@
   },
   "private": true,
   "dependencies": {
-    "codemirror": "5.57.0",
-    "@types/codemirror": "0.0.97"
+    "@types/codemirror": "0.0.97",
+    "angular-cli-ghpages": "^0.6.2",
+    "codemirror": "5.57.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.1001.0",
